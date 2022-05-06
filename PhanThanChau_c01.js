@@ -40,5 +40,5 @@ const y11 = 2;
 const S = (Math.sqrt(x11) + Math.abs(x11)) / Math.sqrt(Math.pow(x11, y11));
 console.log(S);
 // Bài 12
-const data = [1, 3, 7, 2, 5];
-console.log(data.length);
+const data = [1, 3, 7, 2, 4];
+console.log(data[data.length - 1]);

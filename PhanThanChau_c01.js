@@ -33,7 +33,7 @@ console.log(a9 / b9);
 const a10 = 3;
 const b10 = -1;
 const c10 = -2;
-console.log((-b10 + Math.sqrt(b10 ** 2 - 4 * a10 * c10)) / (2 * a10));
+console.log((-b10 + Math.sqrt(Math.pow(b10, 2) - 4 * a10 * c10)) / (2 * a10));
 //Bài 11
 const x11 = 4;
 const y11 = 2;

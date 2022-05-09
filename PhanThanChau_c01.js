@@ -47,4 +47,4 @@ const S =
 console.log(S);
 // Bài 12
 const data = [1, 3, 7, 2, 4];
-console.log("Phần tử cuối cùng (dùng index):", data[data.length - 1]);
+console.log("Phần tử cuối cùng (dùng index):", data[4]);
